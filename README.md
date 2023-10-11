@@ -1,2 +1,2 @@
 # linkedin-clone
-Linkedin-Clone 
+  Linkedin-Clone projem

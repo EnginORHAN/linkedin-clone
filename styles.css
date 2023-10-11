@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(244,242,238);
+    margin-top: 3rem;
+}
+/*navbar başlangıç */
+.navbar{
+    margin-top: -5px;
+}
+.input-style{
+    border: none!important;
+    background-color: rgb(237,243,248)  ;
+    margin-left: -10px;
+}
+.nav-text{
+    font-size: .8rem;
+    text-align: center;
+    width: 4rem;
+    height: 5px;
+}
+.nav-right{
+    border-left:1px solid black ;        
+}
+/*navbar bitiş */
+/*left-bar başlangıç*/
+.left-text{
+    font-size: 12px;
+}
+/*left-bar bitiş*/
+/*orta başlangıç*/
+.font-sizer{
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: -.2rem;
+}
+.font-sizer2{
+  font-size: .7rem;
+  color: gray;
+  margin-bottom: -.5rem;
+  
+}
+/*orta bitiş*/
